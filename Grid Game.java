@@ -1,10 +1,8 @@
-//Yusuf Akbulut-150118023
-
 //Purpose of this program,creating grid game at basic level. 
 
 import java.util.Scanner;
 
-public class Pro5_1_150118023 {
+public class Grid_Game {
 
 	public static void main(String[] args) {
 	
